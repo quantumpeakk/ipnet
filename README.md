@@ -9,9 +9,6 @@ pkg install python
 pip install requests
 ```
 ```
-python ipnet.py
-```
-```
 git clone https://github.com/quantumpeakk/ipnet.git
 ```
 ```
