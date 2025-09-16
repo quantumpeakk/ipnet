@@ -11,9 +11,25 @@ pip install requests
 ```
 python ipnet.py
 ```
+```
+git clone https://github.com/quantumpeakk/ipnet.git
+```
+```
+cd ipnet
+```
+```
+python ipnet.py
+```
 
 # Kurulum (Kali)
 ```
 sudo apt install python3-requests
 ```
 ```
+git clone https://github.com/quantumpeakk/ipnet.git
+```
+```
+cd ipnet
+```
+```
+python ipnet.py
